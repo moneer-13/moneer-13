@@ -30,7 +30,7 @@ I enjoy learning by building projects, solving problems, and experimenting with 
 ### 🤝 Connect With Me
 
 - LinkedIn: www.linkedin.com/in/moneer-alam
-- GitHub: [Your GitHub profile URL]
+- GitHub: https://github.com/moneer-13
 
 ---
 
